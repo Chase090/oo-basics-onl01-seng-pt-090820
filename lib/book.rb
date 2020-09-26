@@ -30,7 +30,7 @@ class Book
   end 
  
   def genre
-    gerne
+    @gerne
   end
   
   
