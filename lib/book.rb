@@ -29,4 +29,9 @@ class Book
     @genre = genre
   end 
  
+  def genre
+    gerne
+  end
+  
+  
 end
