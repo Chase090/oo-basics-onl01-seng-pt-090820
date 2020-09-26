@@ -10,9 +10,7 @@ def initialize(brand)
 end
 
  def cobble
-   if new
    puts "Your shoe is as good as new!"
- end
  end
 
 
